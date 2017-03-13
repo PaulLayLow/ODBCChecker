@@ -1,0 +1,11 @@
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\bin\Debug\ODBCChecker.exe.config
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\bin\Debug\ODBCChecker.exe
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\bin\Debug\ODBCChecker.pdb
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Debug\ODBCChecker.csprojResolveAssemblyReference.cache
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Debug\ODBCChecker.f_main.resources
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Debug\ODBCChecker.Properties.Resources.resources
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Debug\ODBCChecker.csproj.GenerateResource.Cache
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Debug\ODBCChecker.exe
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Debug\ODBCChecker.pdb
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\bin\Debug\GongShell.xml
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Debug\ODBCChecker.PleaseWaitForm.resources

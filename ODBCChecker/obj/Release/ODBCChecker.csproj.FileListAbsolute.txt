@@ -1,0 +1,10 @@
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\bin\Release\ODBCChecker.exe.config
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\bin\Release\ODBCChecker.exe
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\bin\Release\ODBCChecker.pdb
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Release\ODBCChecker.csprojResolveAssemblyReference.cache
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Release\ODBCChecker.f_main.resources
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Release\ODBCChecker.PleaseWaitForm.resources
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Release\ODBCChecker.Properties.Resources.resources
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Release\ODBCChecker.csproj.GenerateResource.Cache
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Release\ODBCChecker.exe
+C:\src\ODBCChecker\ODBCChecker\ODBCChecker\obj\Release\ODBCChecker.pdb
